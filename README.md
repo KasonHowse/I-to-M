@@ -1,2 +1,2 @@
 # I to M
-Fahrenheit to Celsius
+Fahrenheit to Celsius and Pound to Kilograms
