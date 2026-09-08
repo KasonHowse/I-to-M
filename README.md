@@ -1,2 +1,2 @@
-# F-to-C
+# I to M
 Fahrenheit to Celsius
